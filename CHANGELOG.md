@@ -6,4 +6,4 @@
 
 ### Added
 
-- French translation support by @BesrourMS in https://github.com/ryxxn/pwa-install-prompt/pull/2
+- French translation support by [@BesrourMS](https://github.com/BesrourMS) in https://github.com/ryxxn/pwa-install-prompt/pull/2
